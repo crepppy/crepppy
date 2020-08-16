@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**crepppy/crepppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jack, a 15 year old Java developer from Wales, UK. I have been working with Java and Python as a freelancer for several years and offer a variety of services, primarily focussing on automation and bots
 
-Here are some ideas to get you started:
+- 👨‍💻 Hypixel Skyblock Auction bot
+- 🎓 Currently studying Computer Science
+- 🤔 Learning more about Full-stack web development frameworks
+- 💬 Main languages: Java & Python
+- 🔗 Find my portfolio at: https://jack-chapman.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<details>
+  <summary>Future Projects</summary>
+  
+  * Integrating Discord bots with a full stack web dashboard
+  * Making open source software
+</details>
