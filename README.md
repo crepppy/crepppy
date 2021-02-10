@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jack, a 15 year old Java developer from Wales, UK. I have been working with Java and Python as a freelancer for several years and offer a variety of services, primarily focussing on automation and bots
+I'm Jack, a 16 year old Java developer from Wales, UK. I have been working with Java and Python as a freelancer for several years and offer a variety of services, primarily focussing on automation and bots
 
 - 👨‍💻 Working on custom Minecraft plugins
 - 🎓 Learning Kotlin
